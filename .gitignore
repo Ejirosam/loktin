@@ -28,8 +28,6 @@ pnpm-debug.log*
 lerna-debug.log*
 
 # environment variables
-.env
-.env.*
 !.env.example
 
 # stellar CLI local identities / keys — never commit
@@ -53,3 +51,7 @@ src/contracts/*
 
 # misc
 planning/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
